@@ -12,10 +12,7 @@ Technologies Used
 - HTML
 - CSS
 - JavaScript
-
- Screenshots
-_Add a screenshot of your app here if you want_
-
+- 
  How to Use
 1. Open the website
 2. Enter numbers using the on-screen buttons
